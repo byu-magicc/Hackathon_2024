@@ -10,4 +10,7 @@ for both software and hardware applications.
 
 Objectives:
 
-1. Create 
+1. Construct Airframes and
+2. Implement Autopilot for
+3. Perform System Identification
+4.  
